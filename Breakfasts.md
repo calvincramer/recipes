@@ -1,4 +1,4 @@
-Links: [[Recipes]]
+Links: [Recipes](Recipes.md)
 Tags: 
 
 ---

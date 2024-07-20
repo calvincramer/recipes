@@ -71,5 +71,6 @@
   ],
   "newFileFolderPath": "notes",
   "strictLineBreaks": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "useMarkdownLinks": true
 }
