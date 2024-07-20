@@ -1,6 +1,5 @@
-Links: [Dinners](Dinners.md)
-
-Tags: 
+- Links: [Dinners](Dinners.md)
+- Tags: 
 
 ---
 

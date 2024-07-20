@@ -1,5 +1,4 @@
-Links: [Recipes](Recipes.md)
-
-Tags: 
+- Links: [Recipes](Recipes.md)
+- Tags: 
 
 ---

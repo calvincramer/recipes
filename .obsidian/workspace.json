@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soups.md",
+                "file": "templates/Recipe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soups.md",
+                "file": "templates/Recipe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soups.md",
+                "file": "templates/Recipe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,16 +167,16 @@
   },
   "active": "5163535643618bc6",
   "lastOpenFiles": [
-    "Shepherd's Pie.md",
-    "Recipes.md",
-    "README.md",
-    "Dinners.md",
-    "Desserts and Baking.md",
-    "Chicken Adobo.md",
-    "Breakfasts.md",
     "Breads.md",
-    "templates/Recipe.md",
+    "Breakfasts.md",
+    "Chicken Adobo.md",
+    "Desserts and Baking.md",
+    "Dinners.md",
+    "README.md",
+    "Recipes.md",
+    "Shepherd's Pie.md",
     "Soups.md",
+    "templates/Recipe.md",
     "templates/z Dataview - MoC - List of pages that link this note.md",
     "templates",
     "notes/Axios.md",
