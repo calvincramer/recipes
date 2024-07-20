@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 15,
+  "translucency": false,
+  "cssTheme": "Obsidian Nord",
+  "baseFontSizeAction": true,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "zoom-images"
+  ],
+  "textFontFamily": "",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "theme": "obsidian"
+}

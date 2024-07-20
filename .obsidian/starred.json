@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Professors and Teachers",
+      "path": "notes/Professors and Classes Taken.md"
+    },
+    {
+      "type": "file",
+      "title": "Obsidian Markdown Guide",
+      "path": "notes/Markdown Guide.md"
+    },
+    {
+      "type": "file",
+      "title": "Programming Languages",
+      "path": "notes/Programming Languages Features.md"
+    },
+    {
+      "type": "file",
+      "title": "Computer Science",
+      "path": "notes/Computer Science.md"
+    },
+    {
+      "type": "file",
+      "title": "Putting Notes into Obsidian",
+      "path": "notes/Putting Notes into Obsidian.md"
+    },
+    {
+      "type": "file",
+      "title": "Vows",
+      "path": "notes/Wedding Vows.md"
+    }
+  ]
+}

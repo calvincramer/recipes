@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "3608171b76da39a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b046ffb2bcb6ca99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Cache.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e728e054d28183ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f0a97730bce03e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "160e9fdf6ae9ae6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "749cb47ba64bf563",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cache",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0de05985529f4958",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.0121879577637,
+    "collapsed": true
+  },
+  "right": {
+    "id": "80caff11d1c4b6aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b49878db9f318b",
+        "type": "tabs",
+        "dimension": 55.81061692969871,
+        "children": [
+          {
+            "id": "6624862b321b1687",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Cache.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d201e4e3b776080a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "800965a9dc2d98bb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b81b33ec8896bda1",
+        "type": "tabs",
+        "dimension": 44.18938307030129,
+        "children": [
+          {
+            "id": "75b21a8b710d86f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Cache.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.1453857421875,
+    "collapsed": true
+  },
+  "active": "b046ffb2bcb6ca99",
+  "lastOpenFiles": [
+    "notes/High Performance Computer Architecture.md",
+    "notes/VLIW.md",
+    "notes/Tree Height Reduction.md",
+    "notes/Trace Scheduling.md",
+    "notes/Tomasulo's Algorithm.md",
+    "notes/Superscalar Processor.md",
+    "notes/Structural Dependencies.md",
+    "notes/Software Pipelining.md",
+    "notes/Reorder Buffer.md",
+    "notes/Register Renaming.md"
+  ]
+}

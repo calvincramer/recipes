@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "3608171b76da39a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "80805b634eb91b47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a9fb2d609cf09fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e728e054d28183ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f0a97730bce03e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "160e9fdf6ae9ae6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "749cb47ba64bf563",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "children",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28d6fe72094bc8c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "80caff11d1c4b6aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b49878db9f318b",
+        "type": "tabs",
+        "dimension": 49.25690021231423,
+        "children": [
+          {
+            "id": "6624862b321b1687",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d201e4e3b776080a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "800965a9dc2d98bb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "05b69e5e541c4aaf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b81b33ec8896bda1",
+        "type": "tabs",
+        "dimension": 50.74309978768577,
+        "children": [
+          {
+            "id": "75b21a8b710d86f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "160e9fdf6ae9ae6f",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Shepherd's Pie.md",
+    "Chicken Adobo.md",
+    "Recipes.md",
+    "Dinners.md",
+    "Soups.md",
+    "Desserts and Baking.md",
+    "Breakfasts.md",
+    "Breads.md",
+    "templates/z Dataview - MoC - List of pages that link this note.md",
+    "templates/Recipe.md",
+    "templates",
+    "notes/Axios.md",
+    "notes/Bash Shell.md",
+    "notes/Bash Set Options.md",
+    "notes/Bash Conditional Expressions.md",
+    "notes/Next.js.md",
+    "notes/MongoDB.md",
+    "notes/React Components.md",
+    "notes/Javascript Control Flow If Switch For While Try Catch.md",
+    "notes/AWS - Amazon Web Services.md",
+    "notes/Next.js Streaming.md",
+    "notes/Javascript.md",
+    "notes/Next.js Dynamic Rendering.md",
+    "notes/Mongoose.md",
+    "notes/ShipFast.md",
+    "notes/Alacritty.md",
+    "attachments/crossover-one-point.svg",
+    "attachments/crossover-two-points.svg",
+    "attachments/crossover-1-pnt.png",
+    "attachments/sus-example-stochastic-universal-sampling.png",
+    "A",
+    "attachments/pascals-triangle.svg",
+    "attachments/stacked-area-graph.png",
+    "attachments/line-graph.png",
+    "attachments/bar-chart.png",
+    "attachments/area-multiple-graph.png",
+    "attachments/area-graph.png",
+    "CI",
+    "HTTP",
+    "Frontend Design UI",
+    "archive",
+    "programming-projects/Untitled",
+    "programming-projects",
+    "kanban",
+    "scripts",
+    "test-canvas.canvas"
+  ]
+}

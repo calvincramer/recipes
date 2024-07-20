@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1716613928555,
+      "path": "notes/Goals.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1716613919817,
+      "path": "notes/Projects (Mostly Programming).md",
+      "title": "Projects"
+    },
+    {
+      "type": "file",
+      "ctime": 1716613873601,
+      "path": "notes/Project - Things To Learn Grab-bag Practice Mastery.md",
+      "title": "Things To Learn Grab-bag Practice Mastery"
+    },
+    {
+      "type": "file",
+      "ctime": 1718424788968,
+      "path": "notes/Landing Page Design.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1718424808765,
+      "path": "notes/SaaS Guide Checklist.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1718424816288,
+      "path": "notes/Frontend Design - GUI CSS Checklist.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1718424823490,
+      "path": "notes/Good Website Examples.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1718424827419,
+      "path": "notes/Mark Lou.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1719289208674,
+      "path": "notes/TCP Socket Programming Example.md"
+    }
+  ]
+}

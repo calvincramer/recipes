@@ -1,0 +1,240 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#Paper",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#ToRead",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#People",
+      "color": {
+        "a": 1,
+        "rgb": 7566195
+      }
+    },
+    {
+      "query": "tag:#Paper",
+      "color": {
+        "a": 1,
+        "rgb": 6908265
+      }
+    },
+    {
+      "query": "tag:#Tool",
+      "color": {
+        "a": 1,
+        "rgb": 5597999
+      }
+    },
+    {
+      "query": "tag:#Organization",
+      "color": {
+        "a": 1,
+        "rgb": 10506797
+      }
+    },
+    {
+      "query": "tag:#ML",
+      "color": {
+        "a": 1,
+        "rgb": 4734347
+      }
+    },
+    {
+      "query": "tag:#TestingAndAnalysis",
+      "color": {
+        "a": 1,
+        "rgb": 32768
+      }
+    },
+    {
+      "query": "tag:#DistributedComputing",
+      "color": {
+        "a": 1,
+        "rgb": 3978097
+      }
+    },
+    {
+      "query": "tag:#Company",
+      "color": {
+        "a": 1,
+        "rgb": 12433259
+      }
+    },
+    {
+      "query": "tag:#Physics",
+      "color": {
+        "a": 1,
+        "rgb": 35723
+      }
+    },
+    {
+      "query": "tag:#Networking",
+      "color": {
+        "a": 1,
+        "rgb": 128
+      }
+    },
+    {
+      "query": "tag:#OperatingSystem",
+      "color": {
+        "a": 1,
+        "rgb": 3329330
+      }
+    },
+    {
+      "query": "tag:#ComputerVision",
+      "color": {
+        "a": 1,
+        "rgb": 8388736
+      }
+    },
+    {
+      "query": "tag:#ComputerArchitecture",
+      "color": {
+        "a": 1,
+        "rgb": 11546720
+      }
+    },
+    {
+      "query": "tag:#DataStructure",
+      "color": {
+        "a": 1,
+        "rgb": 16747520
+      }
+    },
+    {
+      "query": "tag:#Filesystem  ",
+      "color": {
+        "a": 1,
+        "rgb": 4262548
+      }
+    },
+    {
+      "query": "tag:#Security",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "tag:#ProgrammingLanguages",
+      "color": {
+        "a": 1,
+        "rgb": 9699539
+      }
+    },
+    {
+      "query": "tag:#Compiler",
+      "color": {
+        "a": 1,
+        "rgb": 10880807
+      }
+    },
+    {
+      "query": "tag:#Algorithm",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "tag:#Frontend",
+      "color": {
+        "a": 1,
+        "rgb": 49151
+      }
+    },
+    {
+      "query": "tag:#Cryptography",
+      "color": {
+        "a": 1,
+        "rgb": 16032864
+      }
+    },
+    {
+      "query": "tag:#Math",
+      "color": {
+        "a": 1,
+        "rgb": 14315734
+      }
+    },
+    {
+      "query": "tag:#AudioVisual",
+      "color": {
+        "a": 1,
+        "rgb": 11584734
+      }
+    },
+    {
+      "query": "tag:#TerminalsAndShells",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "tag:#ProgrammingTechniques",
+      "color": {
+        "a": 1,
+        "rgb": 2003199
+      }
+    },
+    {
+      "query": "tag:#Parallelism",
+      "color": {
+        "a": 1,
+        "rgb": 16716947
+      }
+    },
+    {
+      "query": "tag:#Encodings",
+      "color": {
+        "a": 1,
+        "rgb": 8087790
+      }
+    },
+    {
+      "query": "tag:#Database",
+      "color": {
+        "a": 1,
+        "rgb": 16773077
+      }
+    },
+    {
+      "query": "tag:#ComputationalTheory",
+      "color": {
+        "a": 1,
+        "rgb": 16758465
+      }
+    },
+    {
+      "query": "tag:#MoC",
+      "color": {
+        "a": 1,
+        "rgb": 11403055
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 0.814583333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.692708333333333,
+  "repelStrength": 15,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.0889892578125,
+  "close": true
+}
