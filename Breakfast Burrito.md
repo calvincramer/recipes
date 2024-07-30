@@ -20,16 +20,16 @@
 - 300g (1 1/2 cups) cheese -> shredded. cheddar or Monterey jack good
 - cilantro, very rough chop
 ## Steps
-Potatoes hashbrown
+### Potatoes hash-brown
 1. put grated potatoes in dish towel with some salt, squeeze out moisture
 2. fry potatoes in one flat in greased non-stick pan for 3-5 minutes, flip, 3-5 minutes, set aside.
-Meat
+### Meat
 1. combine meat and all spices, mix
 2. similar to potatoes, fry in greased non-stick in flattened layer, few minutes each side, flip. Once done cut roughly into small squares in the pan. Set aside.
-Eggs
+### Eggs
 1. butter in non-stick pan, put in bell pepper and onion for 3-4 minutes, some salt
 2. add eggs, stir, some salt. Cook until desired doneness 
-Assemble, store
+### Assemble and store
 1. *warmed* tortilla (helps to not break), add eggs, meat, potatoes, cheese, cilantro
 2. seal edge and opposite side on *not greased* pan medium heat
 3. if storing -> cool to room temp, wrap in plastic wrap, put in fridge or freezer

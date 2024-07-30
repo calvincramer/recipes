@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bdd07511c3d3a70",
+            "id": "10e0296517e6f098",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c022e820f0cac05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shrimp Coconut Red Curry.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10e0296517e6f098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meat Brussels Sprout Rice Meal Prep.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrimp Coconut Red Curry.md",
+                "file": "Breakfast Burrito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrimp Coconut Red Curry.md",
+                "file": "Breakfast Burrito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,11 +165,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8c022e820f0cac05",
+  "active": "160e9fdf6ae9ae6f",
   "lastOpenFiles": [
-    "Breakfast Burrito.md",
     "Meat Brussels Sprout Rice Meal Prep.md",
     "Shrimp Coconut Red Curry.md",
+    "templates/Recipe.md",
+    "Breakfast Burrito.md",
     "Recipes.md",
     "Meal Prep.md",
     "Dinners.md",
@@ -210,7 +184,6 @@
     "Oyster Crackers.md",
     "Sides.md",
     "Couscous Mexican Rice Style.md",
-    "templates/Recipe.md",
     "README.md",
     "Shepherd's Pie.md",
     "templates/z Dataview - MoC - List of pages that link this note.md",

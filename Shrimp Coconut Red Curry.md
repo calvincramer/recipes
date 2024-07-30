@@ -34,3 +34,4 @@
 - to freeze:
     - cool completely, store in 1 qt ziplock bag, freeze flag
     - to reheat put in steaming but not boiling pot of water for 5-10 minutes
+- add cornstarch slurry if want thicker
