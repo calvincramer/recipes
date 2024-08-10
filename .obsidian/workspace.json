@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "ac704cef12490e96",
+        "id": "d2e09776bcd49811",
         "type": "tabs",
         "children": [
           {
-            "id": "10e0296517e6f098",
+            "id": "76e8eee6aad0f547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breakfast Burrito.md",
+                "file": "Mongolian Beef.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a0dde996bd79797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chicken Wings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 270.5
   },
   "right": {
     "id": "80caff11d1c4b6aa",
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Breakfast Burrito.md",
+                "file": "Chicken Wings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Breakfast Burrito.md",
+                "file": "Chicken Wings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,23 +179,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "160e9fdf6ae9ae6f",
+  "active": "9a0dde996bd79797",
   "lastOpenFiles": [
+    "Mongolian Beef.md",
+    "Chicken Wings.md",
+    "Dinners.md",
+    "Breakfast Burrito.md",
+    "Oyster Crackers.md",
+    "Breads.md",
+    "Recipes.md",
     "Meat Brussels Sprout Rice Meal Prep.md",
     "Shrimp Coconut Red Curry.md",
     "templates/Recipe.md",
-    "Breakfast Burrito.md",
-    "Recipes.md",
     "Meal Prep.md",
-    "Dinners.md",
     "Breakfasts.md",
     "Cornbread.md",
     "Soups.md",
     "Seafood Chowder.md",
-    "Breads.md",
     "Desserts and Baking.md",
     "Chicken Adobo.md",
-    "Oyster Crackers.md",
     "Sides.md",
     "Couscous Mexican Rice Style.md",
     "README.md",
@@ -192,8 +208,6 @@
     "notes/Bash Shell.md",
     "notes/Bash Set Options.md",
     "notes/Bash Conditional Expressions.md",
-    "notes/Next.js.md",
-    "notes/MongoDB.md",
     "attachments/crossover-one-point.svg",
     "attachments/crossover-two-points.svg",
     "attachments/crossover-1-pnt.png",

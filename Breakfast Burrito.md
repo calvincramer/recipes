@@ -38,3 +38,4 @@
 - makes x6 burritos
 - can freeze
 - make sure potato and meat are in a thin layer when cooking. About 1/2 inch
+- try adding bread crumbs to meat
