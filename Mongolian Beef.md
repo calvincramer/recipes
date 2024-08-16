@@ -9,12 +9,12 @@
 - 1/2 tsp white pepper
 - 1 bunch (6 or so) green onion, sliced in 1.5-inch sections
 - 1 inch knob ginger, finely chopped
-- 2 small hot chilis, sliced finely
+- 1 small hot chili, sliced finely, (1/2 less spicy)
 - 2 tsp gochugaru (sub 1 tsp cayenne + 1 tsp smoked paprika)
 - 110g brown sugar
-- 64g dark soy sauce
-- 64g soy sauce
-- 60g water
+- 50g dark soy sauce
+- 50g soy sauce
+- 50g water
 - splash of rice vinegar
 - basil leaves
 - 5 clove garlic, finely chopped

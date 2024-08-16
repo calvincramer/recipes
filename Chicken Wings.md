@@ -1,13 +1,21 @@
-- Links: 
+- Links: [Dinners](Dinners.md)
 - Tags: 
 
 ---
 
 ## Ingredients
-https://www.youtube.com/watch?v=SW19kMda9RQ
+- 4 lbs chicken wings
+- 15g salt
+- 15g baking powder
 
 ## Steps
-
+- combine chicken wings, salt, baking powder
+- put wings on wire rack, refrigerate 4 - 24 hours
+- position oven rack 8 inch below broiler
+- oven broiler on high
+- wings into oven
+- flip every 5 minutes, repeat for 4 flips, or 25 minutes total
+- put sauce on wing
 
 ## Notes
 

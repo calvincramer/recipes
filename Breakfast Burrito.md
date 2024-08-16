@@ -5,7 +5,7 @@
 
 ## Ingredients
 - potato - 1x large, peeled, grated
-- 450g ground meat, beef or Italian sausage, spiced with:
+- 500g ground meat, beef or Italian sausage, spiced with:
     - 1g fennel powder (don't include if using sausage)
     - 1g garlic powder
     - 0.5g (1/2 tsp) cumin
@@ -16,7 +16,7 @@
 - 1/2 bell pepper, diced smallish
 - 1/2 onion diced smallish
 - 8 eggs, whisk until homogeneous
-- 6x tortillas large 10 inch
+- 8x tortillas large 10 inch
 - 300g (1 1/2 cups) cheese -> shredded. cheddar or Monterey jack good
 - cilantro, very rough chop
 ## Steps
