@@ -9,7 +9,7 @@
 - 1/2 tsp white pepper
 - 1 bunch (6 or so) green onion, sliced in 1.5-inch sections
 - 1 inch knob ginger, finely chopped
-- 1 small hot chili, sliced finely, (1/2 less spicy)
+- 1 small hot chili, sliced finely, (half for less spicy)
 - 2 tsp gochugaru (sub 1 tsp cayenne + 1 tsp smoked paprika)
 - 110g brown sugar
 - 50g dark soy sauce

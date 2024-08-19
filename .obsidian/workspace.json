@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e09776bcd49811",
+        "id": "3b7fbfd22b12bd9a",
         "type": "tabs",
         "children": [
           {
-            "id": "9a0dde996bd79797",
+            "id": "517f9bf815b5a33c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken Wings.md",
+                "file": "Berry Compote.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10cc4781e0930450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheesecake.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chicken Wings.md",
+                "file": "Berry Compote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chicken Wings.md",
+                "file": "Berry Compote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,35 +178,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9a0dde996bd79797",
+  "active": "517f9bf815b5a33c",
   "lastOpenFiles": [
-    "Chicken Wings.md",
+    "Turkish Delight.md",
+    "Desserts and Baking.md",
+    "Cheesecake.md",
+    "Berry Compote.md",
+    "Recipes.md",
+    "Snickerdoodles.md",
+    "Bread Simple.md",
+    "Breads.md",
+    "Overnight Oat Parfait.md",
+    "Breakfasts.md",
+    "Lemon Bar.md",
     "Mongolian Beef.md",
+    "Chicken Wings.md",
     "Cornbread.md",
     "Breakfast Burrito.md",
     "Dinners.md",
     "Oyster Crackers.md",
-    "Breads.md",
-    "Recipes.md",
     "Meat Brussels Sprout Rice Meal Prep.md",
     "Shrimp Coconut Red Curry.md",
     "templates/Recipe.md",
     "Meal Prep.md",
-    "Breakfasts.md",
     "Soups.md",
     "Seafood Chowder.md",
-    "Desserts and Baking.md",
     "Chicken Adobo.md",
     "Sides.md",
     "Couscous Mexican Rice Style.md",
-    "README.md",
-    "Shepherd's Pie.md",
-    "templates/z Dataview - MoC - List of pages that link this note.md",
     "templates",
-    "notes/Axios.md",
-    "notes/Bash Shell.md",
-    "notes/Bash Set Options.md",
-    "notes/Bash Conditional Expressions.md",
     "attachments/crossover-one-point.svg",
     "attachments/crossover-two-points.svg",
     "attachments/crossover-1-pnt.png",

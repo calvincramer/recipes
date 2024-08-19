@@ -5,8 +5,8 @@
 
 ## Ingredients
 - 4 lbs chicken wings
-- 15g salt
-- 15g baking powder
+- 14g salt
+- 14g baking powder
 
 ## Steps
 - combine chicken wings, salt, baking powder
@@ -23,12 +23,12 @@
 
 ## Sauces
 ### Chinese Hoisin
-- 125g hoisin sauce 
-- 100g soy sauce 
-- 15g sesame oil 
-- 125g honey 
-- 20g (4-5 cloves) garlic, minced 
-- 20g fresh ginger, grated
+- 100g hoisin sauce 
+- 80g soy sauce 
+- 12g sesame oil 
+- 100g honey 
+- 16g (4 cloves) garlic, minced 
+- 16g fresh ginger, grated
 1. combine everything
 2. in a pot, bring to a simmer
 3. reduce for 10 minutes
