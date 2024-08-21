@@ -1,4 +1,4 @@
-- Links: [Sides](Sides.md)
+- Links: [Sides](Sides/Sides.md)
 - Tags: 
 
 ---

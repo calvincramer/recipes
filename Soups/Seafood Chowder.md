@@ -1,4 +1,4 @@
-- Links: [Dinners](Dinners.md), [Oyster Crackers](Oyster%20Crackers.md)
+- Links: [Soups](Soups/Soups.md)
 - Tags: 
 
 ---
@@ -25,4 +25,4 @@
 8. salt to taste
 9. serve
 ## Notes
-- good with [Oyster Crackers](Oyster%20Crackers.md)
+- good with [Oyster Crackers](Breads/Oyster%20Crackers.md)

@@ -1,4 +1,4 @@
-- Links: [Drinks](Drinks.md)
+- Links: [Drinks](Drinks/Drinks.md)
 - Tags: 
 
 ---

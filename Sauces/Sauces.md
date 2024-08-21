@@ -3,4 +3,4 @@
 
 ---
 
-- [Hollandaise Sauce](Hollandaise%20Sauce.md)
+- [Hollandaise Sauce](Sauces/Hollandaise%20Sauce.md)

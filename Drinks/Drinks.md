@@ -3,4 +3,4 @@
 
 ---
 
-- [Hot Chocolate](Hot%20Chocolate.md)
+- [Hot Chocolate](Drinks/Hot%20Chocolate.md)

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b10233413564c89",
+        "id": "e786585c0fd1a743",
         "type": "tabs",
         "children": [
           {
-            "id": "385b04a16d3fa42f",
+            "id": "9c040aab40a320a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desserts and Baking/Banana Bread.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desserts and Baking/Banana Bread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desserts and Baking/Banana Bread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,42 +158,42 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "385b04a16d3fa42f",
+  "active": "9c040aab40a320a5",
   "lastOpenFiles": [
-    "Breads/Breads.md",
-    "Desserts and Baking/Banana Bread.md",
-    "Desserts and Baking/Desserts and Baking.md",
-    "Dinners/Baked Pasta.md",
-    "Dinners/Dinners.md",
-    "Dinners/Beef Quesadillas.md",
-    "Dinners/Fried Chicken Sandwich.md",
-    "Dinners/Chicken Stir Fry.md",
-    "Soups/German Barley Kielbasa Soup - Graupensuppe.md",
-    "Breads/Simple Bread.md",
-    "Soups/Soups.md",
     "Recipes.md",
-    "Soups",
-    "README.md",
-    "Meal Prep/Meat Brussels Sprout Rice Meal Prep.md",
-    "Meal Prep/Meal Prep.md",
-    "Meal Prep",
-    "Sauces/Sauces.md",
-    "Sauces/Hollandaise Sauce.md",
-    "Sauces",
-    "Drinks/Drinks.md",
-    "Drinks",
+    "Soups/Soups.md",
+    "Soups/Seafood Chowder.md",
+    "Soups/German Barley Kielbasa Soup - Graupensuppe.md",
     "Sides/Sides.md",
     "Sides/Couscous Mexican Rice Style.md",
-    "Sides",
+    "Sauces/Sauces.md",
+    "Sauces/Hollandaise Sauce.md",
+    "Meal Prep/Meat Brussels Sprout Rice Meal Prep.md",
+    "Meal Prep/Meal Prep.md",
+    "Drinks/Hot Chocolate.md",
+    "Drinks/Drinks.md",
+    "Dinners/Dinners.md",
+    "Dinners/Shrimp Coconut Red Curry.md",
+    "Dinners/Shepherd's Pie.md",
+    "Dinners/Mongolian Beef.md",
+    "Dinners/Fried Chicken Sandwich.md",
     "Dinners/Chicken Wings.md",
+    "Dinners/Chicken Stir Fry.md",
+    "Dinners/Chicken Adobo.md",
     "Dinners/Cast Iron Pan Pizza.md",
-    "Dinners",
-    "Breakfasts/Breakfasts.md",
-    "Breakfasts/Breakfast Burrito.md",
-    "Breakfasts",
+    "Dinners/Beef Quesadillas.md",
+    "Dinners/Baked Pasta.md",
+    "Desserts and Baking/Turkish Delight.md",
+    "Desserts and Baking/Snickerdoodles.md",
     "Desserts and Baking/Pumpkin Bread.md",
+    "Soups",
+    "Meal Prep",
+    "Sauces",
+    "Drinks",
+    "Sides",
+    "Dinners",
+    "Breakfasts",
     "Breads",
-    "Desserts and Baking/Lemon Bar.md",
     "Desserts and Baking",
     "templates",
     "attachments/crossover-one-point.svg",
