@@ -3,4 +3,4 @@
 
 ---
 
-- [Seafood Chowder](Seafood%20Chowder.md)
+- [Hot Chocolate](Hot%20Chocolate.md)
