@@ -12,3 +12,21 @@
 - [Sauces](Sauces/Sauces.md)
 - [Sides](Sides/Sides.md)
 - [Soups](Soups/Soups.md)
+
+Ideas:
+- Broccoli cheese soup
+- Lentil and sweet potato soup (blended) with bread and cheese
+- Chickpea spinach stew
+- Chicken essence
+- Chicken shwarma salad
+- Chili
+- Vietnamese spring rolls
+- Rissoto
+- Fried rice
+- Calzone
+- Bean sprouts pickled
+- Garlic bread
+- Brussel sprout goat cheese balsamic vinegar cranberries
+- Jacques Pepin's omelette
+- Eggs and tomato - add a little vinegar and sugar
+- Berry smoothie

@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c040aab40a320a5",
+            "id": "2401513c663a2804",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Recipes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +165,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9c040aab40a320a5",
+  "active": "2401513c663a2804",
   "lastOpenFiles": [
+    "Drinks/Lemonade Slushie.md",
+    "Drinks/Drinks.md",
     "Recipes.md",
+    "Dinners/Tang Yuan.md",
+    "Dinners/Dinners.md",
+    "Breads/Breads.md",
+    "Breads/Simple Bread.md",
     "Soups/Soups.md",
     "Soups/Seafood Chowder.md",
     "Soups/German Barley Kielbasa Soup - Graupensuppe.md",
@@ -171,8 +184,6 @@
     "Meal Prep/Meat Brussels Sprout Rice Meal Prep.md",
     "Meal Prep/Meal Prep.md",
     "Drinks/Hot Chocolate.md",
-    "Drinks/Drinks.md",
-    "Dinners/Dinners.md",
     "Dinners/Shrimp Coconut Red Curry.md",
     "Dinners/Shepherd's Pie.md",
     "Dinners/Mongolian Beef.md",
@@ -182,10 +193,6 @@
     "Dinners/Chicken Adobo.md",
     "Dinners/Cast Iron Pan Pizza.md",
     "Dinners/Beef Quesadillas.md",
-    "Dinners/Baked Pasta.md",
-    "Desserts and Baking/Turkish Delight.md",
-    "Desserts and Baking/Snickerdoodles.md",
-    "Desserts and Baking/Pumpkin Bread.md",
     "Soups",
     "Meal Prep",
     "Sauces",

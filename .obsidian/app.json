@@ -73,5 +73,5 @@
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }
