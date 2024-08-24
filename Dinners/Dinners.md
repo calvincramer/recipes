@@ -15,3 +15,4 @@
 - [Beef Quesadillas](Dinners/Beef%20Quesadillas.md)
 - [Baked Pasta](Dinners/Baked%20Pasta.md)
 - [Tang Yuan](Tang%20Yuan.md)
+- [Chicken Nuggets](Chicken%20Nuggets.md)
