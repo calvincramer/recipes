@@ -16,7 +16,7 @@
 - pinch out side of dough and fold over, rotate 90 degrees, repeat 8-10 times
 - final form pinch seam closed on bottom
 - put on parchment paper
-- cut a couple slits on top (a bread knife works well)
+- cut a couple slits on top (a serated knife like a bread knife works well)
 - put dough in dutch oven
 - spray dough a couple times with water
 - cover dutch oven and put in oven 30 minutes
