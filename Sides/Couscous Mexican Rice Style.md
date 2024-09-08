@@ -4,13 +4,13 @@
 ---
 
 ## Ingredients
-- couscous 3/4 cup
-- 1 tsp garlic powder
-- 1 tsp onion powder
-- pinch of oregano
-- 1/2 tsp cumin
-- 1 tbsp chicken powder
-- 1 tsp salt
+- couscous 3/4 cup 140g
+- 1 tsp garlic powder 4g
+- 1 tsp onion powder 3g
+- pinch of oregano 1g
+- 1/2 tsp cumin 2g
+- 1 tbsp chicken powder 14g
+- 1 tsp salt 6g
 - 1/3 cup tomato sauce
 - 2.5 cups chicken broth
 ## Steps
