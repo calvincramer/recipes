@@ -11,8 +11,13 @@
             "id": "8e8b55c9b3a9c0ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sides/Couscous Mexican Rice Style.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sides/Couscous Mexican Rice Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sides/Couscous Mexican Rice Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +165,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8e8b55c9b3a9c0ed",
+  "active": "160e9fdf6ae9ae6f",
   "lastOpenFiles": [
     "Soups/Potato Leek Soup.md",
     "Soups/Soups.md",
