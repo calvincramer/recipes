@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e8b55c9b3a9c0ed",
+            "id": "48e267130c80135e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sides/Couscous Mexican Rice Style.md",
+                "file": "Meal Prep/Hot Pocket Burrito.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sides/Couscous Mexican Rice Style.md",
+                "file": "Meal Prep/Hot Pocket Burrito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sides/Couscous Mexican Rice Style.md",
+                "file": "Meal Prep/Hot Pocket Burrito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,11 +165,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "160e9fdf6ae9ae6f",
+  "active": "48e267130c80135e",
   "lastOpenFiles": [
+    "Breakfasts/Breakfast Burrito.md",
+    "Dinners/Chicken Wings.md",
+    "Meal Prep/Meal Prep.md",
+    "Meal Prep/Hot Pocket Burrito.md",
+    "Sides/Couscous Mexican Rice Style.md",
     "Soups/Potato Leek Soup.md",
     "Soups/Soups.md",
-    "Untitled.md",
     "Sides/Mushroom Risotto.md",
     "Dinners/Baked Pasta.md",
     "Sides/Sides.md",
@@ -189,10 +193,6 @@
     "Drinks/Drinks.md",
     "Dinners/Tang Yuan.md",
     "Breads/Simple Bread.md",
-    "Soups/Seafood Chowder.md",
-    "Soups/German Barley Kielbasa Soup - Graupensuppe.md",
-    "Sides/Couscous Mexican Rice Style.md",
-    "Sauces/Sauces.md",
     "Soups",
     "Meal Prep",
     "Sauces",
