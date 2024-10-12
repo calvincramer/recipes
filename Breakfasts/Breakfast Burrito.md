@@ -12,6 +12,7 @@
     - 0.5g (1/2 tsp) onion powder
     - 15g sugar
     - 9g salt
+    - 50g (10%) breadcrumbs
 - some butter
 - 1/2 bell pepper, diced smallish
 - 1/2 onion diced smallish
