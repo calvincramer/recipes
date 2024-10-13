@@ -5,7 +5,7 @@
 
 ## Ingredients
 - crust
-    - 160g Graham crackers (12 sheets)
+    - 160g Graham crackers
     - 30g sugar
     - 2g salt
     - ground nutmeg, pinch (optional)
