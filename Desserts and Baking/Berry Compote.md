@@ -5,7 +5,7 @@
 
 ## Ingredients
 - 450g berries (strawberry is good)
-- 110g sugar
+- 100g sugar
 - 14g cornstarch, dissolved in some water
 - lemon juice 25g
 - 117g water
