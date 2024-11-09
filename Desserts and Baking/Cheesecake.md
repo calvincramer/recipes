@@ -4,6 +4,25 @@
 ---
 
 ## Ingredients
+%%Version 2 - much better%%
+- crust
+    - 200g Graham crackers
+    - 30g sugar
+    - 2g salt
+    - ground nutmeg, pinch (optional)
+    - 90g butter, melted (make sure total amount goes in, not just 90g unmelted)
+- filling
+    - 680g cream-cheese (3 blocks)
+    - 180g sugar
+    - 3 eggs
+    - 4g salt
+    - 10g vanilla
+    - 120g sour cream
+    - 15g greek yogurt
+    - 23g cornstarch
+
+%%
+Version 1 - crust is too crumbly, crust is pretty thin, filling a bit too sweet
 - crust
     - 160g Graham crackers
     - 30g sugar
@@ -18,11 +37,12 @@
     - 10g vanilla
     - 120g sour cream
     - 20g cornstarch
+%%
 
 ## Steps
 Crust
 1. combine all ingredients. Should be dry and crumbly but hold together when pressed
-2. grease 9 inch spring-form pan
+2. use 9 inch spring-form pan, grease sides, no need to grease bottom
 3. put sand in pan and tamp down with something flat
     1. optionally can make crust higher on edge
 4. bake 10 minutes at 350F
