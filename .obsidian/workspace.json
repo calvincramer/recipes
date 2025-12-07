@@ -11,10 +11,24 @@
             "id": "9443e7d6bfb083a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Desserts and Baking/Pumpkin Pie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pumpkin Pie"
             }
           }
         ]
@@ -182,6 +196,13 @@
   },
   "active": "9443e7d6bfb083a9",
   "lastOpenFiles": [
+    "Desserts and Baking/Desserts and Baking.md",
+    "Desserts and Baking/Pumpkin Pie.md",
+    "Sides/Stuffing.md",
+    "Sides/Sides.md",
+    "Sauces/Gravy.md",
+    "Sauces/Hollandaise Sauce.md",
+    "Sauces/Sauces.md",
     "Desserts and Baking/Cheesecake.md",
     "Dinners/Tang Yuan.md",
     "Desserts and Baking/Berry Compote.md",
@@ -194,7 +215,6 @@
     "Soups/Soups.md",
     "Sides/Mushroom Risotto.md",
     "Dinners/Baked Pasta.md",
-    "Sides/Sides.md",
     "Soups/Chili.md",
     "Soups/Chicken Potato Carrot Stew.md",
     "Recipes.md",
@@ -202,12 +222,6 @@
     "Dinners/Chicken Nuggets.md",
     "Breads/Bread Rolls.md",
     "Breads/Breads.md",
-    "Breads/Garlic Bread.md",
-    "Soups/Vegetable Stock.md",
-    "Breakfasts/Breakfast Egg Casserole.md",
-    "Breakfasts/Breakfasts.md",
-    "Breakfasts/Crepes.md",
-    "Drinks/Lemonade Slushie.md",
     "Soups",
     "Meal Prep",
     "Sauces",
