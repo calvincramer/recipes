@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Desserts and Baking/Cheesecake.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cheesecake"
+            }
+          }
+        ]
+      },
+      {
+        "id": "36b2ca287def8543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc90c636bf3bd25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Desserts and Baking/Pumpkin Pie.md",
                 "mode": "source",
                 "source": false,
@@ -88,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "80caff11d1c4b6aa",
@@ -196,14 +227,14 @@
   },
   "active": "9443e7d6bfb083a9",
   "lastOpenFiles": [
-    "Desserts and Baking/Desserts and Baking.md",
     "Desserts and Baking/Pumpkin Pie.md",
+    "Desserts and Baking/Cheesecake.md",
+    "Desserts and Baking/Desserts and Baking.md",
     "Sides/Stuffing.md",
     "Sides/Sides.md",
     "Sauces/Gravy.md",
     "Sauces/Hollandaise Sauce.md",
     "Sauces/Sauces.md",
-    "Desserts and Baking/Cheesecake.md",
     "Dinners/Tang Yuan.md",
     "Desserts and Baking/Berry Compote.md",
     "Meal Prep/Hot Pocket Burrito.md",

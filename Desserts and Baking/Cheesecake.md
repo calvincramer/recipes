@@ -10,6 +10,7 @@
     - 30g sugar
     - 2g salt
     - ground nutmeg, pinch (optional)
+    - ground cardamom, pinch (optional)
     - 90g butter, melted (make sure total amount goes in, not just 90g unmelted)
 - filling
     - 680g cream-cheese (3 blocks)
