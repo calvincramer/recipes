@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65e8b2204f544261",
+            "id": "6fe14c9f0a02818a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Breads/Jerusalem Bagel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Jerusalem Bagel"
             }
           }
         ]
@@ -37,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,8 +196,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "65e8b2204f544261",
+  "active": "6fe14c9f0a02818a",
   "lastOpenFiles": [
+    "Breads/Oyster Crackers.md",
+    "Breads/Jerusalem Bagel.md",
+    "Breads/Breads.md",
+    "README.md",
+    "Breads/Garlic Bread.md",
     "Desserts and Baking/Pumpkin Pie.md",
     "Desserts and Baking/Cheesecake.md",
     "Desserts and Baking/Pumpkin Cheesecake.md",
@@ -203,11 +224,6 @@
     "Sides/Mushroom Risotto.md",
     "Dinners/Baked Pasta.md",
     "Soups/Chili.md",
-    "Soups/Chicken Potato Carrot Stew.md",
-    "Recipes.md",
-    "Dinners/Dinners.md",
-    "Dinners/Chicken Nuggets.md",
-    "Breads/Bread Rolls.md",
     "Soups",
     "Meal Prep",
     "Sauces",
