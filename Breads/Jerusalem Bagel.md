@@ -3,9 +3,9 @@
 
 ---
 
-https://www.jamesbeard.org/recipes/jerusalem-sesame-bagels
-https://www.ynetnews.com/culture/article/skm0ixovyl
-https://www.scribd.com/document/1054484097/The-Palestinian-Table-Authentic-Palestinan-Recipes-Kassis-Reem-WeLib-org
+- https://www.jamesbeard.org/recipes/jerusalem-sesame-bagels
+- https://www.ynetnews.com/culture/article/skm0ixovyl
+- https://www.scribd.com/document/1054484097/The-Palestinian-Table-Authentic-Palestinan-Recipes-Kassis-Reem-WeLib-org
 
 ---
 
