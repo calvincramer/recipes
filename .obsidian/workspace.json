@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breads/Jerusalem Bagel.md",
+                "file": "Dinners/Shrimp Coconut Red Curry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jerusalem Bagel"
+              "title": "Shrimp Coconut Red Curry"
+            }
+          },
+          {
+            "id": "029072f46722cd30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinners/Red Lentil Curry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Red Lentil Curry"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +221,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6fe14c9f0a02818a",
+  "active": "029072f46722cd30",
   "lastOpenFiles": [
-    "Breads/Oyster Crackers.md",
+    "Dinners/Mongolian Beef.md",
+    "Dinners/Red Lentil Curry.md",
+    "Dinners/Shrimp Coconut Red Curry.md",
     "Breads/Jerusalem Bagel.md",
+    "Breads/Oyster Crackers.md",
     "Breads/Breads.md",
     "README.md",
     "Breads/Garlic Bread.md",
@@ -221,9 +249,6 @@
     "Sides/Couscous Mexican Rice Style.md",
     "Soups/Potato Leek Soup.md",
     "Soups/Soups.md",
-    "Sides/Mushroom Risotto.md",
-    "Dinners/Baked Pasta.md",
-    "Soups/Chili.md",
     "Soups",
     "Meal Prep",
     "Sauces",
