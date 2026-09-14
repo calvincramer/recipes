@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "12b268ee9a08f562",
+        "id": "13f272ddf7db6997",
         "type": "tabs",
         "children": [
           {
-            "id": "6fe14c9f0a02818a",
+            "id": "5e0a1093be89fcfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dinners/Shrimp Coconut Red Curry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Shrimp Coconut Red Curry"
-            }
-          },
-          {
-            "id": "029072f46722cd30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dinners/Red Lentil Curry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Red Lentil Curry"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +182,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "029072f46722cd30",
+  "active": "5e0a1093be89fcfa",
   "lastOpenFiles": [
-    "Dinners/Mongolian Beef.md",
+    "Desserts and Baking/Lemon Blueberry Muffins.md",
+    "Desserts and Baking/Cheesecake.md",
+    "Desserts and Baking/Desserts and Baking.md",
     "Dinners/Red Lentil Curry.md",
+    "Dinners/Mongolian Beef.md",
     "Dinners/Shrimp Coconut Red Curry.md",
     "Breads/Jerusalem Bagel.md",
     "Breads/Oyster Crackers.md",
@@ -232,9 +196,7 @@
     "README.md",
     "Breads/Garlic Bread.md",
     "Desserts and Baking/Pumpkin Pie.md",
-    "Desserts and Baking/Cheesecake.md",
     "Desserts and Baking/Pumpkin Cheesecake.md",
-    "Desserts and Baking/Desserts and Baking.md",
     "Sides/Stuffing.md",
     "Sides/Sides.md",
     "Sauces/Gravy.md",
@@ -248,7 +210,6 @@
     "Meal Prep/Meal Prep.md",
     "Sides/Couscous Mexican Rice Style.md",
     "Soups/Potato Leek Soup.md",
-    "Soups/Soups.md",
     "Soups",
     "Meal Prep",
     "Sauces",

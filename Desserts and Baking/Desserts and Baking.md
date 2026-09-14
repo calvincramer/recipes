@@ -12,3 +12,4 @@
 - [Banana Bread](Desserts%20and%20Baking/Banana%20Bread.md)
 - [Pumpkin Pie](Pumpkin%20Pie.md)
 - [Pumpkin Cheesecake](Pumpkin%20Cheesecake.md)
+- [Lemon Blueberry Muffins](Lemon%20Blueberry%20Muffins.md)
