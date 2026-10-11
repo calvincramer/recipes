@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13f272ddf7db6997",
+        "id": "6ef6c6a37f3fb220",
         "type": "tabs",
         "children": [
           {
-            "id": "5e0a1093be89fcfa",
+            "id": "ebcb14b4d69f8e4e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,12 +178,18 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "5e0a1093be89fcfa",
+  "active": "ebcb14b4d69f8e4e",
   "lastOpenFiles": [
+    "Meal Prep/Curry Roux Blocks.md",
+    "Meal Prep/Meal Prep.md",
+    "Breakfasts/Breakfasts.md",
+    "Breakfasts/Egg Spinach Omlette.md",
+    "Breakfasts/Breakfast Burrito.md",
+    "Sauces/Red Salsa.md",
+    "Sauces/Sauces.md",
     "Desserts and Baking/Lemon Blueberry Muffins.md",
     "Desserts and Baking/Cheesecake.md",
     "Desserts and Baking/Desserts and Baking.md",
@@ -201,15 +207,8 @@
     "Sides/Sides.md",
     "Sauces/Gravy.md",
     "Sauces/Hollandaise Sauce.md",
-    "Sauces/Sauces.md",
     "Dinners/Tang Yuan.md",
     "Desserts and Baking/Berry Compote.md",
-    "Meal Prep/Hot Pocket Burrito.md",
-    "Breakfasts/Breakfast Burrito.md",
-    "Dinners/Chicken Wings.md",
-    "Meal Prep/Meal Prep.md",
-    "Sides/Couscous Mexican Rice Style.md",
-    "Soups/Potato Leek Soup.md",
     "Soups",
     "Meal Prep",
     "Sauces",

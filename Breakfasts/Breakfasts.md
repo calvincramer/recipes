@@ -8,3 +8,4 @@
 - [Waffles](Breakfasts/Waffles.md)
 - [Crepes](Crepes.md)
 - [Breakfast Egg Casserole](Breakfast%20Egg%20Casserole.md)
+- [Egg Spinach Omlette](Egg%20Spinach%20Omlette.md)
