@@ -8,13 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebcb14b4d69f8e4e",
+            "id": "8dc76dd3edc1556f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sauces/Guacamole.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Guacamole"
+            }
+          },
+          {
+            "id": "c77df1f233362be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sauces/Red Salsa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Red Salsa"
             }
           }
         ]
@@ -181,15 +219,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebcb14b4d69f8e4e",
+  "active": "8dc76dd3edc1556f",
   "lastOpenFiles": [
+    "Sauces/Red Salsa.md",
+    "Sauces/Guacamole.md",
+    "Sauces/Sauces.md",
     "Meal Prep/Curry Roux Blocks.md",
     "Meal Prep/Meal Prep.md",
     "Breakfasts/Breakfasts.md",
     "Breakfasts/Egg Spinach Omlette.md",
     "Breakfasts/Breakfast Burrito.md",
-    "Sauces/Red Salsa.md",
-    "Sauces/Sauces.md",
     "Desserts and Baking/Lemon Blueberry Muffins.md",
     "Desserts and Baking/Cheesecake.md",
     "Desserts and Baking/Desserts and Baking.md",
@@ -208,7 +247,6 @@
     "Sauces/Gravy.md",
     "Sauces/Hollandaise Sauce.md",
     "Dinners/Tang Yuan.md",
-    "Desserts and Baking/Berry Compote.md",
     "Soups",
     "Meal Prep",
     "Sauces",

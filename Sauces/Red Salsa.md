@@ -1,4 +1,4 @@
-- Links: [Sauces](Sauces.md)
+- Links: [Sauces](Sauces.md), [Guacamole](Guacamole.md)
 - Tags: 
 
 ---
@@ -17,3 +17,4 @@
 4. Add in chicken bullion powder
 5. lime and salt to taste
 ## Notes
+Char things in oven broiler or frying in pan (not non-stick)
