@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ef6c6a37f3fb220",
+        "id": "dc9d1cda306769fb",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc76dd3edc1556f",
+            "id": "a9d722d97623bdfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sauces/Guacamole.md",
+                "file": "Desserts and Baking/Desserts and Baking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Guacamole"
-            }
-          },
-          {
-            "id": "c77df1f233362be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sauces/Red Salsa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Red Salsa"
+              "title": "Desserts and Baking"
             }
           }
         ]
@@ -219,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dc76dd3edc1556f",
+  "active": "a9d722d97623bdfb",
   "lastOpenFiles": [
-    "Sauces/Red Salsa.md",
+    "Desserts and Baking/Cupcakes Simple.md",
     "Sauces/Guacamole.md",
+    "Sauces/Red Salsa.md",
     "Sauces/Sauces.md",
     "Meal Prep/Curry Roux Blocks.md",
     "Meal Prep/Meal Prep.md",
@@ -246,7 +223,6 @@
     "Sides/Sides.md",
     "Sauces/Gravy.md",
     "Sauces/Hollandaise Sauce.md",
-    "Dinners/Tang Yuan.md",
     "Soups",
     "Meal Prep",
     "Sauces",
