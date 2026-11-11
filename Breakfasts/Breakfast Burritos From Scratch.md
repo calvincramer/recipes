@@ -1,8 +1,9 @@
-- Links: [Breakfasts](Breakfasts/Breakfasts.md)
+- Links: [Breakfasts](Breakfasts/Breakfasts.md), [Breakfast Burritos Easy](Breakfast%20Burritos%20Easy.md)
 - Tags: 
 
 ---
 
+Makes x6 burritos
 ## Ingredients
 - potato - 1x large, peeled, grated
 - 500g ground meat, beef or Italian sausage, spiced with:
@@ -36,7 +37,6 @@
 3. if storing -> cool to room temp, wrap in plastic wrap, put in fridge or freezer
     1. reheat by baking at 400F until warmed through
 ## Notes
-- makes x6 burritos
 - can freeze
 - make sure potato and meat are in a thin layer when cooking. About 1/2 inch
 - try adding bread crumbs to meat

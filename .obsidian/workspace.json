@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9d722d97623bdfb",
+            "id": "63ba9e95641754c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desserts and Baking/Desserts and Baking.md",
+                "file": "Breakfasts/Breakfast Burritos Easy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Desserts and Baking"
+              "title": "Breakfast Burritos Easy"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b441dc15062b49b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9d722d97623bdfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Breakfasts/Breakfast Burritos From Scratch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Breakfast Burritos From Scratch"
             }
           }
         ]
@@ -195,20 +225,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9d722d97623bdfb",
+  "active": "63ba9e95641754c4",
   "lastOpenFiles": [
+    "Breakfasts/Breakfast Burritos From Scratch.md",
+    "Breakfasts/Breakfast Burritos Easy.md",
+    "Breakfasts/Breakfasts.md",
+    "Desserts and Baking/Desserts and Baking.md",
     "Desserts and Baking/Cupcakes Simple.md",
     "Sauces/Guacamole.md",
     "Sauces/Red Salsa.md",
     "Sauces/Sauces.md",
     "Meal Prep/Curry Roux Blocks.md",
     "Meal Prep/Meal Prep.md",
-    "Breakfasts/Breakfasts.md",
     "Breakfasts/Egg Spinach Omlette.md",
-    "Breakfasts/Breakfast Burrito.md",
     "Desserts and Baking/Lemon Blueberry Muffins.md",
     "Desserts and Baking/Cheesecake.md",
-    "Desserts and Baking/Desserts and Baking.md",
     "Dinners/Red Lentil Curry.md",
     "Dinners/Mongolian Beef.md",
     "Dinners/Shrimp Coconut Red Curry.md",
@@ -222,7 +253,6 @@
     "Sides/Stuffing.md",
     "Sides/Sides.md",
     "Sauces/Gravy.md",
-    "Sauces/Hollandaise Sauce.md",
     "Soups",
     "Meal Prep",
     "Sauces",

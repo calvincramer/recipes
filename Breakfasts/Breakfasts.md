@@ -3,7 +3,8 @@
 
 ---
 
-- [Breakfast Burrito](Breakfasts/Breakfast%20Burrito.md)
+- [Breakfast Burritos From Scratch](Breakfast%20Burritos%20From%20Scratch.md)
+- [Breakfast Burritos Easy](Breakfast%20Burritos%20Easy.md)
 - [Overnight Oat Parfait](Breakfasts/Overnight%20Oat%20Parfait.md)
 - [Waffles](Breakfasts/Waffles.md)
 - [Crepes](Crepes.md)
