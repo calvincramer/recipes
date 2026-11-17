@@ -1,10 +1,35 @@
+<style>
+    /* Hide the "View on GitHub" button */
+    .page-header .btn {
+        display: none;
+    }
+    /* Smaller header */
+    .page-header {
+        padding: 1.25rem 1rem;
+    }
+    .project-name {
+        font-size: 1.75rem;
+        margin: 0;
+    }
+    .project-tagline {
+        display: none;
+    }
+    @media screen and (min-width: 64em) {
+        .page-header {
+            padding: 1.5rem 6rem;
+        }
+        .project-name {
+            font-size: 2.25rem;
+        }
+    }
+</style>
 <script>
-  // Source links point at .md files (so they work in Obsidian/GitHub); serve them as .html here.
-  document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll(".main-content a[href]").forEach(function (a) {
-      var h = a.getAttribute("href");
-      if (/^[a-z][a-z0-9+.-]*:/i.test(h)) return;
-      a.setAttribute("href", h.replace(/\.md(?=$|#|\?)/, ".html"));
+    // Source links point at .md files (so they work in Obsidian/GitHub); serve them as .html here.
+    document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll(".main-content a[href]").forEach(function (a) {
+            var h = a.getAttribute("href");
+            if (/^[a-z][a-z0-9+.-]*:/i.test(h)) return;
+            a.setAttribute("href", h.replace(/\.md(?=$|#|\?)/, ".html"));
+        });
     });
-  });
 </script>
