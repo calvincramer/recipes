@@ -1,13 +1,12 @@
 title: Recipes
-description: Our recipes, please enjoy!
 theme: jekyll-theme-cayman
 plugins:
-  - jekyll-relative-links
-  - jekyll-optional-front-matter
+    - jekyll-relative-links
+    - jekyll-optional-front-matter
 relative_links:
-  enabled: true
-  collections: false
+    enabled: true
+    collections: false
 exclude:
-  - README.md
-  - .obsidian
-  - templates
+    - README.md
+    - .obsidian
+    - templates
