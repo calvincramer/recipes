@@ -1,4 +1,4 @@
-- Links: [Soups](Soups/Soups.md)
+- Links: [Soups](Soups.md)
 - Tags: 
 
 ---
@@ -32,5 +32,5 @@ In appropriate / desired amounts:
 9. salt to taste
 
 ## Notes
-- goes well with some [Simple Bread](Simple%20Bread.md)
+- goes well with some [Simple Bread](../Breads/Simple%20Bread.md)
 - can serve with some parsley or other herbs

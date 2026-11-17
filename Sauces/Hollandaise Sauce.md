@@ -1,4 +1,4 @@
-- Links: [Sauces](Sauces/Sauces.md)
+- Links: [Sauces](Sauces.md)
 - Tags: 
 
 ---

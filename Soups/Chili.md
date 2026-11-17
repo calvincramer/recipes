@@ -1,4 +1,4 @@
-- Links: [Soups](Soups/Soups.md)
+- Links: [Soups](Soups.md)
 - Tags: 
 
 ---

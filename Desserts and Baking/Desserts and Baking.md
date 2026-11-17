@@ -1,15 +1,15 @@
-- Links: [Recipes](Recipes.md)
+- Links: [Recipes](../Recipes.md)
 - Tags: 
 
 ---
 
-- [Lemon Bar](Desserts%20and%20Baking/Lemon%20Bar.md)
-- [Snickerdoodles](Desserts%20and%20Baking/Snickerdoodles.md)
-- [Turkish Delight](Desserts%20and%20Baking/Turkish%20Delight.md)
-- [Berry Compote](Desserts%20and%20Baking/Berry%20Compote.md)
-- [Cheesecake](Desserts%20and%20Baking/Cheesecake.md)
-- [Pumpkin Bread](Desserts%20and%20Baking/Pumpkin%20Bread.md)
-- [Banana Bread](Desserts%20and%20Baking/Banana%20Bread.md)
+- [Lemon Bar](Lemon%20Bar.md)
+- [Snickerdoodles](Snickerdoodles.md)
+- [Turkish Delight](Turkish%20Delight.md)
+- [Berry Compote](Berry%20Compote.md)
+- [Cheesecake](Cheesecake.md)
+- [Pumpkin Bread](Pumpkin%20Bread.md)
+- [Banana Bread](Banana%20Bread.md)
 - [Pumpkin Pie](Pumpkin%20Pie.md)
 - [Pumpkin Cheesecake](Pumpkin%20Cheesecake.md)
 - [Lemon Blueberry Muffins](Lemon%20Blueberry%20Muffins.md)

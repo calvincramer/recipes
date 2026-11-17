@@ -1,0 +1,14 @@
+title: Recipes
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+relative_links:
+  enabled: true
+  collections: false
+readme_index:
+  enabled: true
+  remove_originals: true
+exclude:
+  - .obsidian
+  - templates

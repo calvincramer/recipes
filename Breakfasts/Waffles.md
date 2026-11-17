@@ -1,4 +1,4 @@
-- Links: [Breakfasts](Breakfasts/Breakfasts.md)
+- Links: [Breakfasts](Breakfasts.md)
 - Tags: 
 
 ---

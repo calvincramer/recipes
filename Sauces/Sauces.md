@@ -1,9 +1,9 @@
-- Links: [Recipes](Recipes.md)
+- Links: [Recipes](../Recipes.md)
 - Tags: 
 
 ---
 
-- [Hollandaise Sauce](Sauces/Hollandaise%20Sauce.md)
+- [Hollandaise Sauce](Hollandaise%20Sauce.md)
 - [Gravy](Gravy.md)
 - [Red Salsa](Red%20Salsa.md)
 - [Guacamole](Guacamole.md)

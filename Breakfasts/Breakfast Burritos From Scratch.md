@@ -1,4 +1,4 @@
-- Links: [Breakfasts](Breakfasts/Breakfasts.md), [Breakfast Burritos Easy](Breakfast%20Burritos%20Easy.md)
+- Links: [Breakfasts](Breakfasts.md), [Breakfast Burritos Easy](Breakfast%20Burritos%20Easy.md)
 - Tags: 
 
 ---

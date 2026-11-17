@@ -1,4 +1,4 @@
-- Links: [Dinners](Dinners/Dinners.md)
+- Links: [Dinners](Dinners.md)
 - Tags: 
 
 ---

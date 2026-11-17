@@ -1,4 +1,4 @@
-- Links: [Meal Prep](Meal%20Prep/Meal%20Prep.md)
+- Links: [Meal Prep](Meal%20Prep.md)
 - Tags: 
 
 ---

@@ -1,4 +1,4 @@
-- Links: [Breads](Breads/Breads.md), [Seafood Chowder](Soups/Seafood%20Chowder.md)
+- Links: [Breads](Breads.md), [Seafood Chowder](../Soups/Seafood%20Chowder.md)
 - Tags: 
 
 ---
