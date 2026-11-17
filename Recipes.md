@@ -2,7 +2,7 @@
 permalink: /
 ---
 - Links:
-- Tags: 
+- Tags:
 
 ---
 
@@ -15,18 +15,3 @@ permalink: /
 - [Sauces](Sauces/Sauces.md)
 - [Sides](Sides/Sides.md)
 - [Soups](Soups/Soups.md)
-
-Ideas:
-- Broccoli cheese soup
-- Lentil and sweet potato soup (blended) with bread and cheese
-- Chickpea spinach stew
-- Chicken essence
-- Chicken shwarma salad
-- Vietnamese spring rolls
-- Fried rice
-- Calzone
-- Bean sprouts pickled
-- Brussel sprout goat cheese balsamic vinegar cranberries
-- Jacques Pepin's omelette
-- Eggs and tomato - add a little vinegar and sugar
-- Berry smoothie

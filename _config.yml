@@ -1,4 +1,6 @@
 title: Recipes
+description: Our recipes, please enjoy!
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
   - jekyll-optional-front-matter
